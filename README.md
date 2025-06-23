@@ -3,8 +3,8 @@ CSV Export with Comments &amp; Attachments
 
 # Trello Backup Tool
 
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/trello-backup-tool)](https://github.com/YOUR_USERNAME/trello-backup-tool)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/trello-backup-tool?style=social)](https://github.com/YOUR_USERNAME/trello-backup-tool/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/lofiware/TrelloBackupUtility)](https://github.com/lofiware/TrelloBackupUtility)
+[![Stars](https://img.shields.io/github/stars/lofiware/TrelloBackupUtility?style=social)](https://github.com/lofiware/TrelloBackupUtility/stargazers)
 
 ---
 
