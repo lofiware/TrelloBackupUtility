@@ -38,7 +38,7 @@ Trello does not natively offer full offline backup options with attachments and 
 - GUI or CLI available (depending on version)
 
 ### 🔧 First-Time Setup
-1. Clone the repository or download the `.exe` (see [Downloads](#downloads))
+1. Clone the repository or download the `.exe` (see [Downloads](https://github.com/lofiware/TrelloBackupUtility/releases))
 2. Run the app and follow the authentication prompts
 3. Choose which Trello boards to back up
 4. Select an output folder (remembered for next time)
