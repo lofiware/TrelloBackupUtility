@@ -56,8 +56,9 @@ Latest release: [trello-backup-tool-v1.0.0.exe](https://github.com/lofiware/Trel
 
 No Python installation required. Download and run.
 
+---
 
-##♻️ Restores
+## ♻️ Restores
 Currently, this tool does not support restoring data to Trello.
 
 Backups are structured in a way that makes partial manual recreation easy if necessary:
@@ -72,7 +73,9 @@ Comments, checklists, and labels are stored per card
 
 Planned restore options are in the Roadmap.
 
-##🛣️ Roadmap
+---
+
+## 🛣️ Roadmap
 *Add automated scheduled backups
 
 *Implement restore-to-Trello via API (optional)
@@ -87,7 +90,9 @@ Planned restore options are in the Roadmap.
 
 See Issues for more.
 
-##💖 Support Us
+---
+
+## 💖 Support Us
 This project is developed with care.
 
 If you find it useful:
