@@ -10,7 +10,7 @@ CSV Export with Comments &amp; Attachments
 
 ## 🧭 Introduction
 
-**Trello Backup Tool** is a lightweight desktop utility designed to automatically back up your Trello boards, cards, comments, attachments, and metadata to CSV files for offline storage and long-term archiving.
+**Trello Backup Utility** is a lightweight desktop utility designed to automatically back up your Trello boards, cards, comments, attachments, and metadata to CSV files for offline storage and long-term archiving.
 
 Built with Python, the tool is cross-platform and ideal for both personal and organizational use.
 
@@ -51,13 +51,6 @@ Trello does not natively offer full offline backup options with attachments and 
 ## 📦 Downloads
 
 ### 🖥️ Windows Executable
-Latest release: [trello-backup-tool-v1.0.0.exe](https://github.com/YOUR_USERNAME/trello-backup-tool/releases)
+Latest release: [trello-backup-tool-v1.0.0.exe](https://github.com/lofiware/TrelloBackupUtility/releases)
 
 No Python installation required. Download and run.
-
-### 🐍 Python Users
-```bash
-git clone https://github.com/YOUR_USERNAME/trello-backup-tool.git
-cd trello-backup-tool
-pip install -r requirements.txt
-python main.py
