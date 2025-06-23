@@ -1,6 +1,19 @@
 # TrelloBackupUtility
 CSV Export with Comments &amp; Attachments
+
 ![Scanned by Snyk](https://img.shields.io/badge/Snyk-Scanned-brightgreen?logo=snyk)
+
+[![][github-release-shield]][github-release-link]
+[![][github-release-date-shield]][github-release-link]
+[![][github-downloads-shield]][github-downloads-link]
+[![][github-downloads-latest-shield]][github-downloads-link]
+
+[github-release-shield]: https://img.shields.io/github/v/release/lofiware/TrelloBackupUtility?style=flat&sort=semver
+[github-release-link]: https://github.com/lofiware/TrelloBackupUtility/releases
+[github-release-date-shield]: https://img.shields.io/github/release-date/lofiware/TrelloBackupUtility?style=flat
+[github-downloads-shield]: https://img.shields.io/github/downloads/lofiware/TrelloBackupUtility/total?style=flat
+[github-downloads-latest-shield]: https://img.shields.io/github/downloads/lofiware/TrelloBackupUtility/latest/total?style=flat&label=downloads%40latest
+[github-downloads-link]: https://github.com/lofiware/TrelloBackupUtility/releases
 
 # Trello Backup Tool
 
