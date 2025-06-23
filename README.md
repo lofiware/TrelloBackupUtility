@@ -28,6 +28,10 @@ CSV Export with Comments &amp; Attachments
 
 Built with Python, the tool is cross-platform and ideal for both personal and organizational use.
 
+Source code or snippits can be provided to Vendors and individuals upon request for security concerns.
+
+While the source is still under NDA (since partly coded at work... whoops) I do have permission to release the binaries for public use. 😄
+
 ---
 
 ## 🎯 Purpose / Use Case
