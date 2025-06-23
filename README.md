@@ -1,7 +1,7 @@
 # TrelloBackupUtility
 CSV Export with Comments &amp; Attachments
 
-![Scanned by Snyk](https://img.shields.io/badge/Snyk-Scanned-brightgreen?logo=snyk)
+![Scanned by Snyk](https://img.shields.io/badge/Snyk-Scanned-brightgreen?logo=snyk) [![VirusTotal Scan](https://img.shields.io/badge/Scan-VirusTotal-blue?logo=virustotal)](https://www.virustotal.com/gui/file/a3f2619e837bb95732f31b158d63562e22413a4949161cdc1221b7a6b42e568f)
 
 [![][github-release-shield]][github-release-link]
 [![][github-release-date-shield]][github-release-link]
