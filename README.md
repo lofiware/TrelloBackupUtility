@@ -1,5 +1,6 @@
 # TrelloBackupUtility
 CSV Export with Comments &amp; Attachments
+![Scanned by Snyk](https://img.shields.io/badge/Snyk-Scanned-brightgreen?logo=snyk)
 
 # Trello Backup Tool
 
@@ -54,3 +55,47 @@ Trello does not natively offer full offline backup options with attachments and 
 Latest release: [trello-backup-tool-v1.0.0.exe](https://github.com/lofiware/TrelloBackupUtility/releases)
 
 No Python installation required. Download and run.
+
+
+##♻️ Restores
+Currently, this tool does not support restoring data to Trello.
+
+Backups are structured in a way that makes partial manual recreation easy if necessary:
+
+Each board gets its own folder
+
+Each card is represented as a row with metadata
+
+Attachments are downloaded into corresponding card subfolders
+
+Comments, checklists, and labels are stored per card
+
+Planned restore options are in the Roadmap.
+
+##🛣️ Roadmap
+*Add automated scheduled backups
+
+*Implement restore-to-Trello via API (optional)
+
+*Support for JSON format alongside CSV
+
+*Cloud backup integrations (Dropbox, GDrive, S3)
+
+*Command-line options and headless mode
+
+*Multi-user or team support
+
+See Issues for more.
+
+##💖 Support Us
+This project is developed with care.
+
+If you find it useful:
+
+⭐ Star the repo
+
+🐛 Report bugs or suggest features
+
+🤝 Contribute code or documentation
+
+☕ Buy me a coffee (optional)(not yet - keep your money)
