@@ -1,10 +1,63 @@
 # TrelloBackupUtility
 CSV Export with Comments &amp; Attachments
 
-# Introduction
-The Trello Backup Utility is a self-contained offline backup tool that simplifies the entire process of backup and restore of your critical Trello workspaces, boards, lists, all the way down to your comments.
-It does this using the Trello API, so internet is required to make the backup.
+# Trello Backup Tool
 
-It is simple to set up, and simple to use. While being very powerful and effective at its specific task.
+[![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/trello-backup-tool)](https://github.com/YOUR_USERNAME/trello-backup-tool)
+[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/trello-backup-tool?style=social)](https://github.com/YOUR_USERNAME/trello-backup-tool/stargazers)
 
-Trello boards are link to the user identified by the TRELLO_KEY and TRELLO_TOKEN. Meaning you cannot backup a board you are not part of. Please see multiple account configurations if this is needed.
+---
+
+## 🧭 Introduction
+
+**Trello Backup Tool** is a lightweight desktop utility designed to automatically back up your Trello boards, cards, comments, attachments, and metadata to CSV files for offline storage and long-term archiving.
+
+Built with Python, the tool is cross-platform and ideal for both personal and organizational use.
+
+---
+
+## 🎯 Purpose / Use Case
+
+Trello does not natively offer full offline backup options with attachments and comments. This tool was developed to:
+
+- Archive active workspaces or boards
+- Ensure project continuity if Trello access is lost
+- Provide a CSV-based snapshot for audits, records, or migration
+- Enable scheduled or manual backups
+- Store backups securely in your own folders
+- Avoid vendor lock-in
+
+---
+
+## ⚙️ Setup / Configuration
+
+### ✅ Requirements
+- Python 3.8+
+- Trello API key & token (stored securely using `keyring`)
+- GUI or CLI available (depending on version)
+
+### 🔧 First-Time Setup
+1. Clone the repository or download the `.exe` (see [Downloads](#downloads))
+2. Run the app and follow the authentication prompts
+3. Choose which Trello boards to back up
+4. Select an output folder (remembered for next time)
+5. Customize options like:
+   - Include closed cards
+   - Include attachments
+   - Save log file
+
+---
+
+## 📦 Downloads
+
+### 🖥️ Windows Executable
+Latest release: [trello-backup-tool-v1.0.0.exe](https://github.com/YOUR_USERNAME/trello-backup-tool/releases)
+
+No Python installation required. Download and run.
+
+### 🐍 Python Users
+```bash
+git clone https://github.com/YOUR_USERNAME/trello-backup-tool.git
+cd trello-backup-tool
+pip install -r requirements.txt
+python main.py
